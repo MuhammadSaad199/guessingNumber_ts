@@ -1,5 +1,5 @@
 {
-  "name": "num_guessing",
+  "name": "number_guessing",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
